@@ -849,13 +849,13 @@ body
 
     .hero-content
     {
-        top: 15%;
+        top: 18%;
         width: 92%;
     }
 
     .hero-content h1
     {
-        font-size: 23px;
+        font-size: 20px;
         line-height: 1.45;
         letter-spacing: -0.5px;
     }
